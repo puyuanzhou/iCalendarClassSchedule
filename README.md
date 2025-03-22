@@ -30,17 +30,23 @@ Get your own **Excel course schedule file**.(Typically downloaded from [QDU](htt
 
 If you prefer running the script manually or further develop, follow these steps:
 
-1. Ensure **Python 3.8+** and dependencies are installed:
+1. Clone the repository
 
-	```sh
-	pip install -r requirements.txt
-	```
+```she
+git clone https://github.com/puyuanzhou/iCalendarClassSchedule.git
+```
 
-2. Run the program:
+2. Ensure **Python 3.8+** and dependencies are installed:
 
-	```sh
-	python main.py
-	```
+  ```sh
+  pip install -r requirements.txt
+  ```
+
+3. Run the program:
+
+  ```sh
+  python main.py
+  ```
 
 ------
 
