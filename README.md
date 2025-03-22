@@ -14,7 +14,7 @@ The executable file is packaged **in the Release 7z archive** and can be used di
 2. Download the latest `courseSchdule.7z`
 3. Extract and run `courseSchdule.exe` **without requiring a Python environment**
 
-### 🛠️ Run from Source
+### 🛠️ Run from Source (TO BE PUSH LATER)
 
 1. Ensure Python 3.8+ and dependencies are installed:
 
@@ -31,7 +31,7 @@ The executable file is packaged **in the Release 7z archive** and can be used di
 ## 📖 User Guide
 
 1. Select an **Excel course schedule file** 📂
-	+ It usually downloads at [qud](https://xjw.qdu.edu.cn/).
+	+ It usually downloads at [qdu](https://xjw.qdu.edu.cn/).
 2. Choose **THE FIRST MONDAY** of the semester 📅
 3. Set reminder time ⏰
 4. Choose the output ICS file location 💾
